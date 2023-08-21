@@ -2,6 +2,7 @@
 - 👀 I’m interested in updating my computer skills.
 - 🌱 I’m currently learning about cybersecurity and networking
 - 💞️ I’m looking to collaborate on projects relating to student development in cybersecurity and networking
+- I need to learn how to use Python!
 - 📫 How to reach me by e-mail.
 
 <!---
